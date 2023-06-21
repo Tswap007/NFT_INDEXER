@@ -53,7 +53,7 @@ function App() {
             NFT Indexer 🖼
           </Heading>
           <Text>
-            Plug in an address and this website will return all of its NFTs!
+            Plug in an address and this website will return all of its NFTs! yolo
           </Text>
         </Flex>
       </Center>
